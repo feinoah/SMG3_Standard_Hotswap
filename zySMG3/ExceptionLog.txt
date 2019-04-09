@@ -1,0 +1,153 @@
+Error       	UK9999 	March 28, 2019 3:17:58 PM CST
+Message 	no protocol: //access.ser
+
+java.io.IOException: no protocol: //access.ser
+	at com.experian.stratman.decisionagent.business.AlternateStrategyLoader.getStream(Unknown Source)
+	at com.experian.stratman.decisionagent.business.AStrategyLoader.loadExecutableStrategy(Unknown Source)
+	at com.experian.stratman.decisionagent.business.AStrategyLoader.loadExecutableStrategy(Unknown Source)
+	at com.experian.stratman.decisionagent.business.DAManagementInterface.loadStrategy(Unknown Source)
+	at com.engine.tools.test.main(test.java:36)
+Error       	UK9999 	March 28, 2019 3:23:51 PM CST
+Message 	no protocol: ///access.ser
+
+java.io.IOException: no protocol: ///access.ser
+	at com.experian.stratman.decisionagent.business.AlternateStrategyLoader.getStream(Unknown Source)
+	at com.experian.stratman.decisionagent.business.AStrategyLoader.loadExecutableStrategy(Unknown Source)
+	at com.experian.stratman.decisionagent.business.AStrategyLoader.loadExecutableStrategy(Unknown Source)
+	at com.experian.stratman.decisionagent.business.DAManagementInterface.loadStrategy(Unknown Source)
+	at com.engine.tools.test.main(test.java:36)
+Error       	UK9999 	March 28, 2019 3:24:07 PM CST
+Message 	no protocol: //access.ser
+
+java.io.IOException: no protocol: //access.ser
+	at com.experian.stratman.decisionagent.business.AlternateStrategyLoader.getStream(Unknown Source)
+	at com.experian.stratman.decisionagent.business.AStrategyLoader.loadExecutableStrategy(Unknown Source)
+	at com.experian.stratman.decisionagent.business.AStrategyLoader.loadExecutableStrategy(Unknown Source)
+	at com.experian.stratman.decisionagent.business.DAManagementInterface.loadStrategy(Unknown Source)
+	at com.engine.tools.test.main(test.java:36)
+Error       	UK9999 	March 28, 2019 3:24:28 PM CST
+Message 	no protocol: /c//access.ser
+
+java.io.IOException: no protocol: /c//access.ser
+	at com.experian.stratman.decisionagent.business.AlternateStrategyLoader.getStream(Unknown Source)
+	at com.experian.stratman.decisionagent.business.AStrategyLoader.loadExecutableStrategy(Unknown Source)
+	at com.experian.stratman.decisionagent.business.AStrategyLoader.loadExecutableStrategy(Unknown Source)
+	at com.experian.stratman.decisionagent.business.DAManagementInterface.loadStrategy(Unknown Source)
+	at com.engine.tools.test.main(test.java:36)
+Error       	UK9999 	March 28, 2019 3:25:41 PM CST
+Message 	no protocol: //javaDA//access.ser
+
+java.io.IOException: no protocol: //javaDA//access.ser
+	at com.experian.stratman.decisionagent.business.AlternateStrategyLoader.getStream(Unknown Source)
+	at com.experian.stratman.decisionagent.business.AStrategyLoader.loadExecutableStrategy(Unknown Source)
+	at com.experian.stratman.decisionagent.business.AStrategyLoader.loadExecutableStrategy(Unknown Source)
+	at com.experian.stratman.decisionagent.business.DAManagementInterface.loadStrategy(Unknown Source)
+	at com.engine.tools.test.main(test.java:36)
+Error       	UK9999 	March 28, 2019 3:29:47 PM CST
+Message 	no protocol: access.ser//access.ser
+
+java.io.IOException: no protocol: access.ser//access.ser
+	at com.experian.stratman.decisionagent.business.AlternateStrategyLoader.getStream(Unknown Source)
+	at com.experian.stratman.decisionagent.business.AStrategyLoader.loadExecutableStrategy(Unknown Source)
+	at com.experian.stratman.decisionagent.business.AStrategyLoader.loadExecutableStrategy(Unknown Source)
+	at com.experian.stratman.decisionagent.business.DAManagementInterface.loadStrategy(Unknown Source)
+	at com.engine.tools.test.main(test.java:36)
+Error       	UK9999 	March 28, 2019 3:46:05 PM CST
+Message 	no protocol: //access.ser
+
+java.io.IOException: no protocol: //access.ser
+	at com.experian.stratman.decisionagent.business.AlternateStrategyLoader.getStream(Unknown Source)
+	at com.experian.stratman.decisionagent.business.AStrategyLoader.loadExecutableStrategy(Unknown Source)
+	at com.experian.stratman.decisionagent.business.AStrategyLoader.loadExecutableStrategy(Unknown Source)
+	at com.experian.stratman.decisionagent.business.DAManagementInterface.loadStrategy(Unknown Source)
+	at com.engine.tools.test.main(test.java:36)
+Error       	UK9999 	March 28, 2019 4:14:56 PM CST
+Message 	For input string: "javaDA"
+
+java.io.IOException: For input string: "javaDA"
+	at com.experian.stratman.decisionagent.business.AlternateStrategyLoader.getStream(Unknown Source)
+	at com.experian.stratman.decisionagent.business.AStrategyLoader.loadExecutableStrategy(Unknown Source)
+	at com.experian.stratman.decisionagent.business.AStrategyLoader.loadExecutableStrategy(Unknown Source)
+	at com.experian.stratman.decisionagent.business.DAManagementInterface.loadStrategy(Unknown Source)
+	at com.engine.tools.test.main(test.java:36)
+Error       	UK9999 	March 28, 2019 4:19:16 PM CST
+Message 	unknown protocol: c
+
+java.io.IOException: unknown protocol: c
+	at com.experian.stratman.decisionagent.business.AlternateStrategyLoader.getStream(Unknown Source)
+	at com.experian.stratman.decisionagent.business.AStrategyLoader.loadExecutableStrategy(Unknown Source)
+	at com.experian.stratman.decisionagent.business.AStrategyLoader.loadExecutableStrategy(Unknown Source)
+	at com.experian.stratman.decisionagent.business.DAManagementInterface.loadStrategy(Unknown Source)
+	at com.engine.tools.test.main(test.java:36)
+Error       	UK9999 	March 28, 2019 4:25:00 PM CST
+Message 	no protocol: //access.ser
+
+java.io.IOException: no protocol: //access.ser
+	at com.experian.stratman.decisionagent.business.AlternateStrategyLoader.getStream(Unknown Source)
+	at com.experian.stratman.decisionagent.business.AStrategyLoader.loadExecutableStrategy(Unknown Source)
+	at com.experian.stratman.decisionagent.business.AStrategyLoader.loadExecutableStrategy(Unknown Source)
+	at com.experian.stratman.decisionagent.business.DAManagementInterface.loadStrategy(Unknown Source)
+	at com.engine.tools.test.main(test.java:36)
+Error       	UK9999 	March 28, 2019 4:28:23 PM CST
+Message 	no protocol: /javaDA//access.ser
+
+java.io.IOException: no protocol: /javaDA//access.ser
+	at com.experian.stratman.decisionagent.business.AlternateStrategyLoader.getStream(Unknown Source)
+	at com.experian.stratman.decisionagent.business.AStrategyLoader.loadExecutableStrategy(Unknown Source)
+	at com.experian.stratman.decisionagent.business.AStrategyLoader.loadExecutableStrategy(Unknown Source)
+	at com.experian.stratman.decisionagent.business.DAManagementInterface.loadStrategy(Unknown Source)
+	at com.engine.tools.test.main(test.java:36)
+Error       	UK9999 	March 28, 2019 4:29:02 PM CST
+Message 	no protocol: /c:/javaDA//access.ser
+
+java.io.IOException: no protocol: /c:/javaDA//access.ser
+	at com.experian.stratman.decisionagent.business.AlternateStrategyLoader.getStream(Unknown Source)
+	at com.experian.stratman.decisionagent.business.AStrategyLoader.loadExecutableStrategy(Unknown Source)
+	at com.experian.stratman.decisionagent.business.AStrategyLoader.loadExecutableStrategy(Unknown Source)
+	at com.experian.stratman.decisionagent.business.DAManagementInterface.loadStrategy(Unknown Source)
+	at com.engine.tools.test.main(test.java:36)
+Error       	UK9999 	March 28, 2019 5:13:35 PM CST
+Message 	File not found in all configured directories
+
+java.io.FileNotFoundException: File not found in all configured directories
+	at com.experian.da.LocalStrategyLoader.getStream(LocalStrategyLoader.java:46)
+	at com.experian.stratman.decisionagent.business.AStrategyLoader.loadExecutableStrategy(Unknown Source)
+	at com.experian.stratman.decisionagent.business.AStrategyLoader.loadExecutableStrategy(Unknown Source)
+	at com.experian.stratman.decisionagent.business.DAManagementInterface.loadStrategy(Unknown Source)
+	at com.engine.tools.test.main(test.java:36)
+Error       	UK9999 	March 28, 2019 5:16:23 PM CST
+Message 	File not found in all configured directories
+
+java.io.FileNotFoundException: File not found in all configured directories
+	at com.experian.da.LocalStrategyLoader.getStream(LocalStrategyLoader.java:46)
+	at com.experian.stratman.decisionagent.business.AStrategyLoader.loadExecutableStrategy(Unknown Source)
+	at com.experian.stratman.decisionagent.business.AStrategyLoader.loadExecutableStrategy(Unknown Source)
+	at com.experian.stratman.decisionagent.business.DAManagementInterface.loadStrategy(Unknown Source)
+	at com.engine.tools.test.main(test.java:36)
+Error       	UK9999 	March 29, 2019 10:48:07 AM CST
+Message 	File not found in all configured directories
+
+java.io.FileNotFoundException: File not found in all configured directories
+	at com.experian.stratman.decisionagent.business.AlternateStrategyLoader.getStream(Unknown Source)
+	at com.experian.stratman.decisionagent.business.AStrategyLoader.loadExecutableStrategy(Unknown Source)
+	at com.experian.stratman.decisionagent.business.AStrategyLoader.loadExecutableStrategy(Unknown Source)
+	at com.experian.stratman.decisionagent.business.DAManagementInterface.loadStrategy(Unknown Source)
+	at com.engine.tools.test.main(test.java:42)
+Error       	UK9999 	March 29, 2019 10:49:23 AM CST
+Message 	File not found in all configured directories
+
+java.io.FileNotFoundException: File not found in all configured directories
+	at com.experian.stratman.decisionagent.business.AlternateStrategyLoader.getStream(Unknown Source)
+	at com.experian.stratman.decisionagent.business.AStrategyLoader.loadExecutableStrategy(Unknown Source)
+	at com.experian.stratman.decisionagent.business.AStrategyLoader.loadExecutableStrategy(Unknown Source)
+	at com.experian.stratman.decisionagent.business.DAManagementInterface.loadStrategy(Unknown Source)
+	at com.engine.tools.test.main(test.java:42)
+Error       	UK9999 	March 29, 2019 10:49:35 AM CST
+Message 	File not found in all configured directories
+
+java.io.FileNotFoundException: File not found in all configured directories
+	at com.experian.stratman.decisionagent.business.AlternateStrategyLoader.getStream(Unknown Source)
+	at com.experian.stratman.decisionagent.business.AStrategyLoader.loadExecutableStrategy(Unknown Source)
+	at com.experian.stratman.decisionagent.business.AStrategyLoader.loadExecutableStrategy(Unknown Source)
+	at com.experian.stratman.decisionagent.business.DAManagementInterface.loadStrategy(Unknown Source)
+	at com.engine.tools.test.main(test.java:42)
